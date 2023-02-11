@@ -1,0 +1,53 @@
+.auth_form {
+	display: none;
+}
+
+.reg_form {
+	display: none;
+}
+
+.logtext {
+	text-decoration: underline;
+}
+
+.passtext {
+	text-decoration: underline;
+}	
+
+.twologtext {	
+	text-decoration: underline;
+}
+
+.twopasstext {
+	text-decoration: underline;
+}
+
+.frmbut {
+	background: #107e06;
+	color: #FFF;
+}
+
+.canbut {
+	background:#6b0202;
+	color:#FFF
+}
+
+.reg_form_btn {
+	background: #107e06;
+	color: #FFF;
+}
+
+.canc_form_btn {
+	background:#6b0202;
+	color: #FFF;
+}
+
+.btnlog, .btnreg{
+	text-align: center;
+	display: inline-block;
+	background: #490452;
+	color: #FFF;
+	text-decoration:none;
+	width: 120px;	
+	padding: 15px;
+}
