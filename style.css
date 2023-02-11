@@ -25,21 +25,25 @@
 .frmbut {
 	background: #107e06;
 	color: #FFF;
+	border-radius: 0;
 }
 
 .canbut {
 	background:#6b0202;
 	color:#FFF
+	border-radius: 0;
 }
 
 .reg_form_btn {
 	background: #107e06;
 	color: #FFF;
+	border-radius: 0;
 }
 
 .canc_form_btn {
 	background:#6b0202;
 	color: #FFF;
+	border-radius: 0;
 }
 
 .btnlog, .btnreg{
@@ -50,4 +54,5 @@
 	text-decoration:none;
 	width: 120px;	
 	padding: 15px;
+	border-radius: 0;
 }
