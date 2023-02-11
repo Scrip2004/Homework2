@@ -29,9 +29,9 @@
 }
 
 .canbut {
+	border-radius: 0;
 	background:#6b0202;
 	color:#FFF
-	border-radius: 0;
 }
 
 .reg_form_btn {
